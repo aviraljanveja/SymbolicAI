@@ -1,4 +1,4 @@
-# SymbolicAI
+# ML Research : ML & QML Seminar Info and upload.
 
 - Core Problem : Neural networks often predict each output independently. But tasks like path prediction require the outputs to form a valid global structure. Independent predictions lead to broken paths, loops, or disconnected edges. The goal is to inject structural knowledge into neural network training so outputs become globally consistent.
 
